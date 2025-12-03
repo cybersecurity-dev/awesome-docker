@@ -1,8 +1,13 @@
-<p align="center"><a href="https://en.wikipedia.org/wiki/Docker_(software)">
-  <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Docker_logo.svg" />
-</a></p>
+<div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/Docker_(software)">
+          <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Docker_logo.svg" />
+        </a>
+    </p>
 
-# Awesome [Docker](https://www.ibm.com/think/topics/docker) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Docker](https://www.ibm.com/think/topics/docker) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
